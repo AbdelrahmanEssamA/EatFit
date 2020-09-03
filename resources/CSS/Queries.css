@@ -1,0 +1,233 @@
+
+@media only screen and (max-width:1669px){
+    .hero-text-box{
+        position: absolute;
+        width: 100%;
+        padding: 0 2%;
+        color: rebeccapurple ;
+    }
+    .row{
+        padding:0 2%;
+    }
+}
+
+@media only screen and (max-width:1366px){
+    body{
+        font-size: 15px;
+    }
+    .plan-box{
+        width: 95%;
+        margin-left: 9%;
+    }
+    .plan-price{
+        font-size: 250%;
+        margin-bottom:10px;
+        font-weight: 200;
+        padding: 15px;
+       
+    
+    }
+    .city-box {
+     
+        margin: 20px 0;
+        margin-left: 3.5%;
+        border-radius: 16px;
+        width: 22%; 
+      }
+    
+}
+
+@media only screen and (max-width:1023px){
+    body{
+        font-size: 13px;
+    }
+    .logo{
+        height: 75px;
+    }
+    section{
+        padding: 0 40px;
+    }
+    .step-box{
+        text-align: left;
+    }
+    .step-box2{
+        text-align: right;
+       
+    }
+
+    .works-step div{
+        width: 40px;
+        height: 40px;
+        padding: 4px;
+        float: left;
+        font-size: 200%;
+        margin-right: 15px;
+    }
+    .works-step p{
+        font-size: 100%;
+        padding-top: .5%;
+    }
+    .app{
+        width: 80%;
+    }
+    .icon-small{
+        width: 20px;
+        color: #05c46b;
+        margin-right:2px;
+    }
+    .city-box {
+     
+        margin: 20px 0;
+        margin-left: 3.5%;
+        border-radius: 16px;
+        width: 22%; 
+
+        
+      }
+    .plan-box{
+        width: 95%;
+        margin-left: 6%;
+    }
+    .plan-price{
+        font-size: 250%;
+        margin-bottom:10px;
+        font-weight: 200;
+        padding: 15px;
+       
+    
+    }
+    .plan-price span{
+        font-size: 30%;
+        font-weight: 400;
+        color:#e67e22;
+    }
+    .contact-form{
+        width: 100%;
+    }
+
+    
+
+
+}
+
+@media only screen and (max-width:767px){
+    .mob-nav{
+        display: inline-block;
+      
+    }
+    .main-nav{
+        display: none;
+    }
+    .main-nav{
+        float: left;
+        margin-top: 25px;
+    }
+    .main-nav li{
+        display: block;
+        padding-top: 4px;
+        
+    } 
+    .main-nav li a:link,
+    .main-nav li a:visited{
+
+        font-size: 130%;
+        display: block;
+        border:0 ;
+        padding: 5px 0;
+        
+    }
+    .logo{
+        height: 50px;
+        margin: 2px 0;
+        padding: 0;
+    }
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited{
+        
+        padding: 10px 0;
+    }
+    .sticky .logo{
+        height: 40px;
+        margin-top: 5px;
+        
+    }
+    body{
+        font-size: 12px;
+    }
+    .row{
+        margin:0;
+        
+    }
+    section{
+        padding:  0 30px;
+        margin-left: 0;
+    }
+    .row,.hero-text-box{
+        padding: 0 4%;
+    }
+    .col{
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+        
+    }
+    .app{
+        padding: 0;
+        margin:0;
+        width:50%;
+        margin-bottom: 25px;
+    }
+    .steps-box{
+        text-align: center;
+        padding: 0;
+        margin: 0;
+    }
+    .steps-box2{
+        text-align: center;
+        padding: 0;
+        margin: 0;
+    }
+    .works-step p{
+        font-size: 120%;
+        padding-top: 1.5%;
+        text-align: justify;
+    }
+    h1{
+        font-size: 180%;
+        
+    }
+    h2{font-size: 140%;}
+    .city-box{
+        font-size: 125%;
+    }
+    .plan-box{
+        width: 90%;
+        margin-left: 5%;
+        padding-left:0 ;
+        font-size: 125%;
+    }
+    blockquote{
+        font-size: 120%;
+    }
+    .long-copy{
+        width: 100%;
+        margin-left: 0%;
+        margin-bottom: 25px;
+    }
+    input,select, textarea{
+       margin:10px 0;
+       width: 90%;
+    }
+ 
+    .social-icons{
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width:480px){
+    body{
+        font-size: 10px;
+    }
+}
+
+ 
